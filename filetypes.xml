@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="java" type="CLASS" />
+      <mapping pattern="MarsRoverTracker" type="CLASS" />
     </extensionMap>
   </component>
 </application>
